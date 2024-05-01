@@ -1,7 +1,3 @@
-Here's the arrangement of the provided content for the README:
-
----
-
 # Automated Build and Test with Jenkins on EC2 Instance
 
 ## Project Setup
@@ -106,7 +102,3 @@ Here's the arrangement of the provided content for the README:
 ## Testing and Validation
 1. Push a change to the develop branch and verify Jenkins triggers a build.
 2. Check the Jenkins dashboard for build status and output.
-
----
-
-Feel free to adjust the formatting or add any additional information as needed.
