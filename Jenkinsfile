@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('List Files') {
             steps {                
-                bat 'dir'
+                sh 'ls'
             }
         }
     }
